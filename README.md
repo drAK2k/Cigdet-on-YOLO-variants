@@ -16,7 +16,9 @@ Results of top-4 performing YOLO variants.
 | [YOLO11](https://github.com/ultralytics/ultralytics) |   256  |     56.82M   |  81.50%  |    194.4G    |  12.1 ms  |
 
 
+## Pretrained Models
 
+Pretrained Models can be downloded from [here](https://drive.google.com/drive/folders/1J4_iQyvZc3FKM6bkIswALpLsWPEIAjR6?usp=drive_link)
 
 
 ## Validation

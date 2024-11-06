@@ -8,7 +8,7 @@ Benchmarking on [CigDet](https://data.mendeley.com/datasets/6hyrr8typ7/1) datase
 
 Results of top-4 performing YOLO variants.
 
-| Model | Image Size | #Params | mAP@50 | FLOPs | Inference time |
+| Model | Image Size | Params | mAP@50 | FLOPs | Inference time |
 |:---------------|:----:|:---:|:--:|:--:|:--:|
 | [YOLOv8](https://github.com/ultralytics/ultralytics) |   256  |     43.63M    |  80.30%  |     164.8G     |  11.6 ms  | 
 | [YOLOv9](https://github.com/WongKinYiu/yolov9) |   256  |     50.95M    |   83.50%  |     238.9G     |  18.7 ms  |

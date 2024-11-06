@@ -1,0 +1,8 @@
+
+        train: /path-to-dataset/train
+        val: /path-to-dataset/test
+        
+
+        nc: 1
+        names: ['Cigarette']
+        

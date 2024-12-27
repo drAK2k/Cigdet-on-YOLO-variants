@@ -1,6 +1,9 @@
+[Deep learning-based smoker classification and detection: An overview and evaluation] (https://www.sciencedirect.com/science/article/abs/pii/S0957417424030756)
+
+
 # Performance of Cigdet Dataset on YOLO variants
 
-This repository has the details of our recent work on smoker classification and detection review. #(More details about the work will be added soon....)
+This repository has the details of our recent work on smoker classification and detection review.
 
 
 ## Performance

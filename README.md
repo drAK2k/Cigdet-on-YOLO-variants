@@ -1,4 +1,4 @@
-[Deep learning-based smoker classification and detection: An overview and evaluation] (https://www.sciencedirect.com/science/article/abs/pii/S0957417424030756)
+[Deep learning-based smoker classification and detection: An overview and evaluation](https://www.sciencedirect.com/science/article/abs/pii/S0957417424030756)
 
 
 # Performance of Cigdet Dataset on YOLO variants

@@ -59,7 +59,7 @@ Special Thanks to the YOLO research community for their contributions from [YOLO
 
 ## Cite
 
-Please cite these publications if you use any of the datasets in your research
+Please cite these publications if you use this dataset in your research
 
 
 [Deep learning-based smoker classification and detection: An overview and evaluation](https://www.sciencedirect.com/science/article/abs/pii/S0957417424030756)

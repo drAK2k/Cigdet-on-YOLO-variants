@@ -57,6 +57,18 @@ yolo predict model=yolo{.../v5.pt/v8.pt/v9.pt/...} source=/path-to-dataset/image
 Special Thanks to the YOLO research community for their contributions from [YOLOv1](https://github.com/pjreddie/darknet) to [YOLO11](https://github.com/ultralytics/ultralytics).
 
 
+## Cite
+
+Please cite these publications if you use any of the datasets in your research
+
+
+[Deep learning-based smoker classification and detection: An overview and evaluation](https://www.sciencedirect.com/science/article/abs/pii/S0957417424030756)
+
+[SmokerViT: A Transformer-Based Method for Smoker Recognition](https://www.techscience.com/cmc/v77n1/54461)
+
+[CNN-based smoker classification and detection in smart city application](https://www.mdpi.com/1424-8220/22/3/892)
+
+
 
 
 
